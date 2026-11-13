@@ -5,6 +5,9 @@ Power distribution, motor drivers, wiring, and electrical integration.
 
 - [View Power Distribution Diagram (PDF)](./PowerDistributionDiagram.pdf)
 
+## Component Selection
+- [Motor Calculations](https://github.com/MREN403-CAPSTONE-GROUP9/Mechanical_Design/blob/main/Design_Calculations/Motor_Selection.pdf)
+
 ## Related Repositories
 - [Mechanical Repository](https://github.com/MREN403-CAPSTONE-GROUP9/Mechanical_Design)
 - [Main Project Portfolio](https://github.com/MREN403-CAPSTONE-GROUP9)
